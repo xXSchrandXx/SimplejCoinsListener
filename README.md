@@ -1,0 +1,1 @@
+A bad coded listener for the [jCoinsGiver](https://github.com/xXSchrandXx/SpigotPlugins/blob/master/WoltlabAPI/src/main/java/de/xxschrandxx/wsc/core/jCoinsGiver.java).
