@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/package.xsd"
+name="de.xxschrandxx.externaljoinslistener">
+	<packageinformation>
+		<!-- de.xxschrandxx.externaljoinslistener -->
+		<packagename>JCoinsListener</packagename>
+		<packagedescription>A simple listener for external JCoins modifkations.</packagedescription>
+		<version>1.0.0</version>
+		<date>2020-11-24</date>
+	</packageinformation>
+	<authorinformation>
+		<author>xXSchrandXx</author>
+		<authorurl>https://www.gamestrike.de</authorurl>
+	</authorinformation>
+	<excludedpackages>
+		<excludedpackage version="5.4.0 Alpha 1">com.woltlab.wcf</excludedpackage>
+    </excludedpackages>
+    <requiredpackages>
+        <requiredpackage minversion="5.3.0">de.wcflabs.wcf.jcoins</requiredpackage>
+    </requiredpackages>
+	<instructions type="install">
+		<instruction type="file" />
+		<instruction type="template" />
+		<instruction type="page" />
+		<instruction type="option" />
+		<instruction type="language" />
+	</instructions>
+</package>
