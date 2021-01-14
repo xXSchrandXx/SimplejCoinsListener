@@ -5,8 +5,8 @@ name="de.xxschrandxx.externaljoinslistener">
 		<!-- de.xxschrandxx.externaljoinslistener -->
 		<packagename>JCoinsListener</packagename>
 		<packagedescription>A simple listener for external JCoins modifkations.</packagedescription>
-		<version>1.0.0</version>
-		<date>2020-11-24</date>
+		<version>1.0.1</version>
+		<date>2021-01-14</date>
 	</packageinformation>
 	<authorinformation>
 		<author>xXSchrandXx</author>
@@ -23,6 +23,6 @@ name="de.xxschrandxx.externaljoinslistener">
 		<instruction type="template" />
 		<instruction type="page" />
 		<instruction type="option" />
-		<instruction type="language" />
+		<instruction type="language">lang/*.xml</instruction>
 	</instructions>
 </package>

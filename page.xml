@@ -5,7 +5,11 @@
             <pageType>system</pageType>
             <controller>wcf\page\externalJCoinsListenerPage</controller>
             <name language="de">externalJCoinsListenerPage</name>
+            <name language="en">externalJCoinsListenerPage</name>
             <content language="de">
+                <title>externalJCoinsListenerPage</title>
+            </content>
+            <content language="en">
                 <title>externalJCoinsListenerPage</title>
             </content>
         </page>
